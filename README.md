@@ -27,7 +27,7 @@ The project successfully demonstrated the feasibility of using a Random Forest C
 
 ## 2. Stock Price Prediction
 
-The project aims to forecast the next 3 days of stock prices by employing a Stacked LSTM model trained on a dataset comprising the preceding 100 days of historical stock data. In addition to the predictive model, a Streamlit application is developed to facilitate stock price analysis and inter-stock comparisons. A recorded demonstration of the application's functionality is also included in the repository.
+The project aims to forecast the next 3 days of stock prices by employing a Stacked LSTM model trained on a dataset comprising of historical stock data. In addition to the predictive model, a Streamlit application is developed to facilitate stock price analysis and inter-stock comparisons. A recorded demonstration of the application's functionality is also included in the repository.
 
 #### Methodology:
 1. The project begins by gathering historical stock price data using web scrapping.
