@@ -24,3 +24,21 @@ This project aimed to analyze the sentiment of news headlines related to stocks 
 
 #### Conclusion:
 The project successfully demonstrated the feasibility of using a Random Forest Classifier algorithm for sentiment analysis of stock news headlines. The achieved accuracy of 84% indicates that the model can effectively classify the sentiment of headlines into positive or negative categories. This analysis can be valuable for investors and traders in making informed decisions based on market sentiment extracted from news headlines. Future work may involve exploring other machine learning algorithms, fine-tuning model parameters, and incorporating additional features for further improving sentiment analysis accuracy.
+
+## 2. Stock Price Prediction
+
+The project aims to forecast the next 3 days of stock prices by employing a Stacked LSTM model trained on a dataset comprising the preceding 100 days of historical stock data. In addition to the predictive model, a Streamlit application is developed to facilitate stock price analysis and inter-stock comparisons. A recorded demonstration of the application's functionality is also included in the repository.
+
+#### Methodology:
+1. The project begins by gathering historical stock price data using web scrapping.
+2. This data is used to train a Stacked LSTM model, which is chosen for its ability to capture complex temporal patterns in sequential data.
+3. The model is then fine-tuned and evaluated using appropriate performance metrics.
+4. Simultaneously, a Streamlit application is developed to provide users with an intuitive interface for exploring stock prices and comparing different stocks.
+
+#### Results:
+1. The Stacked LSTM model demonstrates promising performance in predicting the next 3 days of stock prices.
+2. Evaluation metrics such as root mean squared error (RMSE) indicate the model's effectiveness in capturing stock price trends.
+3. Furthermore, the Streamlit application offers users a seamless experience in visualizing and analyzing stock data, allowing for easy comparison between various stocks.
+
+#### Conclusion:
+The project successfully showcases the potential of Stacked LSTM models for stock price prediction and demonstrates the utility of Streamlit applications in facilitating stock market analysis. By providing users with a user-friendly interface and accurate predictions, the project contributes to enhancing decision-making processes in financial markets. Additionally, the inclusion of a recorded demonstration ensures transparency and accessibility, further enhancing the project's value and usability.
