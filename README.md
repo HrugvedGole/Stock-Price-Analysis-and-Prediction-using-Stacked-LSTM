@@ -6,7 +6,7 @@ This repository contains the following projects-
 
 ## 1. Sentiment Analysis Project
 
-This project aimed to analyze the sentiment of news headlines related to stocks using a Random Forest Classifier algorithm. The dataset comprised news headlines from various financial news sources. The primary objective was to classify the sentiment of each headline as either positive, negative, or neutral.
+This project aimed to analyze the sentiment of news headlines related to stocks using a Random Forest Classifier algorithm. The dataset comprised news headlines from various financial news sources. The primary objective was to classify the sentiment of each headline as either positive or negative.
 
 #### Methodology:
 
