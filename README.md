@@ -1,4 +1,4 @@
-# Investment-Compass-Assignment
+# Stock Price Prediction and Sentiment Analysis of Stock related news headlines
 
 This repository contains the following projects-
 1. Sentiment Analysis of News Headlines related to stocks
